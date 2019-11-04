@@ -31,4 +31,4 @@ There is so many varieties of wines that it is almost impossible to know them al
 
 ## Aknowledgement
 The data used comes from a [wine review database](https://www.kaggle.com/zynicide/wine-reviews). 
-The result of the study are available on Medium:  [How to avoid bad wines without particular knowledge on the subject?](https://medium.com/p/1a6092b63098/edit)
+The result of the study are available on Medium:  [How to avoid bad wines without particular knowledge on the subject?](https://medium.com/@oliviergobron/how-to-avoid-bad-wines-without-particular-knowledge-on-the-subject-1a6092b63098)
