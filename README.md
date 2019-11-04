@@ -20,7 +20,7 @@ There is so many varieties of wines that it is almost impossible to know them al
 
 ## Description of the folder / files
 - "wines_review_final.ipynb" is the notebook contaning the study following the CRISP-DM method.
-- "plot" folder contains all the plots saved from the notebook
+- "plots" folder contains all the plots saved from the notebook
 - countries_coordinates.txt contains the latitudes and longitude of the countries [countries_csv](https://developers.google.com/public-data/docs/canonical/countries_csv)
 - data files are not included in this repository but can be downloaded at the following link : [wine review database](https://www.kaggle.com/zynicide/wine-reviews)
 
